@@ -15,7 +15,7 @@ for i in range(cases):
     caseName = '{}.in'.format(i)
 
     n = random.randint(1, 10**i)
-    m = random.randint(1, 10**((i+1) // 2))
+    m = random.randint(1, 10**((i+1) // 3))
 
     calis = [str(random.randint(50, 100) / 10.0) for _ in range(2*m)]
 
