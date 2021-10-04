@@ -17,18 +17,19 @@ jobs:
       run: |
         echo "GITHUB_BASE_COMMIT=${{ github.event.pull_request.base.sha }}" >> $GITHUB_ENV
         echo "GITHUB_CURRENT_COMMIT=${{ github.event.pull_request.head.sha }}" >> $GITHUB_ENV
-      if: github.ref != 'refs/heads/main'
+      if: github.ref != 'refs/heads/master'
 
-    - name: Set base commit (main)
+    - name: Set base commit (master)
       run: |
         echo "GITHUB_BASE_COMMIT=${{ github.event.before }}" >> $GITHUB_ENV
         echo "GITHUB_CURRENT_COMMIT=${{ github.event.after }}" >> $GITHUB_ENV
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/master'
 
     - name: Set up environment
       run: |
         git config --global core.quotePath false
         echo "PIPENV_PIPFILE=$(pwd)/utils/Pipfile" >> $GITHUB_ENV
+
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -36,7 +37,7 @@ jobs:
 
     - uses: actions/checkout@v2
       with:
-        ref: ${{ github.event.pull_request.head.sha }}
+        ref: ${{ env.GITHUB_CURRENT_COMMIT }}
         fetch-depth: 0
         submodules: true
 
@@ -44,6 +45,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         (cd utils && sudo pip install pipenv && pipenv install)
+
     - name: Set up the CI flags.
       run: |
         # When the utils/ directory is changed, run all tests to avoid
@@ -53,10 +55,12 @@ jobs:
         else
           echo "CI_FLAGS=--ci --all" >> $GITHUB_ENV
         fi
+
     - name: Download omegaUp-ci container
       run: |
         docker login https://docker.pkg.github.com -u ${{ github.actor }} -p ${{ github.token }}
         python3 ./utils/runtests.py ${{ env.CI_FLAGS }} --only-pull-image
+
     - name: Run tests
       run: python3 ./utils/runtests.py ${{ env.CI_FLAGS }}
 
@@ -67,10 +71,6 @@ jobs:
     - name: Deploy to omegaUp
       run: pipenv run python3 ./utils/upload.py --ci --verbose  # Don't use CI_FLAGS to avoid deploying all problems.
       if: github.ref == 'refs/heads/master'
-
-    #- name: Push to public branch
-    #  run: cd utils && bash ./publish
-    #  if: github.ref == 'refs/heads/master'
 
     - name: Zip logs
       if: ${{ always() }}
@@ -84,6 +84,7 @@ jobs:
         if [[ -d results/ && "$(find results/ -type f)" != "" ]]; then
           (cd results && zip -r ../results.zip .)
         fi
+        
     - name: Upload logs
       if: ${{ always() }}
       uses: actions/upload-artifact@v2

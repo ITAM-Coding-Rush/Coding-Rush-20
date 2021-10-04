@@ -27,7 +27,7 @@ Finalmente, imprime el promedio final grupal, el promedio más alto y el más ba
 ||examplefile
 sample
 ||description
-En este ejemplo el grupo cuenta con 2 estudiantes, y se han realizado previamente 2 examenes. 
+En este ejemplo el grupo cuenta con 2 estudiantes, y se han realizado previamente 2 exámenes.
 
 El primer estudiante tiene un promedio de 8 y una calificación en el tercer examen de 9.5. Por lo que su promedio final es de 8.5.
 
