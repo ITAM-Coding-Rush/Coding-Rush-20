@@ -2,7 +2,7 @@
 
 Una profesora guarda para cada alumno el promedio de los $n$ exámenes que les ha aplicado. Ella ha decidido no guardar ninguna otra información para no saturar la memoria de su computadora.
 
-La profesora acaba de aplicar un examen adicional a los estudiantes y debe reportar el promedio final de cada uno de ellos. Al final ella reportará también a administración el promedio grupal. 
+La profesora acaba de aplicar un examen adicional a los estudiantes y debe reportar el promedio final de cada uno de ellos. Al final ella reportará también a administración el promedio grupal.
 
 Tu tarea es escribir un programa que le ayude a la profesora a calcular los números que debe reportar.
 

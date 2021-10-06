@@ -6,14 +6,13 @@ Tu tarea es ayudarle a Jesús a saber cuántos dólares tiene y si le alcanzan p
 
 # Entrada
 
-Un solo número entero, la cantidad de dinero que tiene Jesús en pesos mexicanos
+Un solo número entero $x$, la cantidad de dinero que tiene Jesús en pesos mexicanos
 
 # Salida
 
 Deberás imprimir dos líneas. En la primera, imprime el total de dinero que tiene Jesús en dólares.
 
 En la segunda, imprime la cadena (sin comillas) "Fondos suficientes" si es que puede pagar el costo del viaje, o "Fondos insuficientes" en caso contrario.
-
 
 # Ejemplo
 
