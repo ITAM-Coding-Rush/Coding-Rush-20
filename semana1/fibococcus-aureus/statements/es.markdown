@@ -2,15 +2,15 @@
 
 Recientemente un grupo de científicos ha descubierto una nueva bacteria, la han llamado “Fibococcus aureus”. Javier, quien lidera la investigación ha observado que la bacteria tiene un crecimiento muy peculiar: 
 
- - Una bacteria puede dividirse en ella misma y un hijo si han pasado 2 o más minutos desde su nacimiento.
- - Se garantiza que después esos 2 minutos, la bacteria SIEMPRE se dividirá por cada minuto que pase.
- - Al parecer la vida de esta bacteria es de 1 año, por lo que no hay que preocuparse de su muerte.  
+- A partir de los dos minutos desde su naciemento, la bacteria SIEMPRE se genera un nuevo hijo por cada minuto que pasa.
+- Antes de los dos minutos, no genera ningún hijo.
+- Al parecer, la vida de la bacteria es muy prolongada, por lo que no hay que preocuparse de su muerte.
 
-Javier sabe que tú eres un programador muy habilidoso y te ha pedido que le ayudes a determinar la cantidad de bacterias que habrá después de una n cantidad de minutos.
+Javier sabe que tú eres un programador muy habilidoso y te ha pedido que le ayudes a determinar la cantidad de bacterias que habrá después de una $n$ cantidad de minutos.
 
 # Entrada
 
-Un número entero 0<=n<=100 que representa la cantidad de minutos que han pasado desde el nacimiento de la primer bacteria hasta la última. 
+Un número entero $n$ que representa la cantidad de minutos que han pasado desde el nacimiento de la primer bacteria hasta la última. 
 
 # Salida
 
