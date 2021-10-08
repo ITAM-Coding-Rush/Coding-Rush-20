@@ -2,7 +2,6 @@
 
 Se dice que dos números enteros positivos $A$ y $B$ son amigos si la suma de los divisores propios de $A$ es igual a $B$ y la suma de los divisores propios de $B$ es igual a $A$.
 
-
 Los divisores propios de un número $n$ son todos aquellos enteros positivos que dividen a $n$, pero sin incluir a $n$. Por ejemplo, los divisores propios de 12 son 1, 2, 3, 4 y 6.
 
 Tu tarea es diseñar un código que diga si dos números son amigos o no.
@@ -36,7 +35,6 @@ sample2
 {{plantilla.py}}
 
 </details>
-
 
 Un ejemplo de números amigos son los números 220 y 284.
 

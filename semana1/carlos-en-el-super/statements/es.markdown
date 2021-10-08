@@ -26,7 +26,7 @@ Aquí sí le alcanza.
 ||examplefile
 sample2
 ||description
-Aquí la cuenta fue de 145, entonces le faltan $45.
+Aquí la cuenta fue de 145, entonces le faltan \$45.
 ||end
 
 <details><summary>Checa la `plantilla.py`</summary>
