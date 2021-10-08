@@ -21,8 +21,6 @@ Imprime "Sí le alcanza",si trae suficiente dinero; si no le alcanza, imprime la
 sample1
 ||description
 Aquí sí le alcanza.
-||end
-
 ||examplefile
 sample2
 ||description
