@@ -22,25 +22,21 @@ La cantidad de bacterias que habrá después de los n minutos.
 sample1
 ||description
 Se presupone que la bacteria que Javier observará acaba de nacer.
-||end
 
 ||examplefile
 sample2
 ||description
 En el minuto 1 la bacteria1 aún no es capaz de dividirse, por lo que solamente hay 1 bacteria.
-||end
 
 ||examplefile
 sample3
 ||description
 En el minuto 2 la bacteria1 puede dividirse y tiene un hijo.
-||end
 
 ||examplefile
 sample4
 ||description
 En el minuto 3 la bacteria1 tiene un nuevo hijo y la bacteria2 aún no puede dividirse.
-||end
 
 ||examplefile
 sample5
