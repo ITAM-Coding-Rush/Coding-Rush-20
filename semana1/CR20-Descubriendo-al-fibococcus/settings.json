@@ -1,6 +1,6 @@
 {
-  "title": "Carlos en el super",
-  "source": "Coding Rush Otoño 2021 (Yosshua Eli Cisneros Villasana)",
+  "title": "Descubriendo al fibococcus",
+  "source": "Coding Rush Otoño 2021 (Javier David Hernández Estrada)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Descubriendo-al-fibococcus",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
