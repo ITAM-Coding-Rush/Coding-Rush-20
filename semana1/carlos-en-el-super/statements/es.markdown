@@ -20,7 +20,7 @@ El quinto número representa la cantidad de dinero que trae consigo.
 
 # Salida
 
-Imprime (sin comillas) "Sí le alcanza", si trae suficiente dinero; si no le alcanza, imprime la cantidad que le falta para completar el monto de lo que quiere comprar.
+Imprime (sin comillas) "Le alcanza", si trae suficiente dinero; si no le alcanza, imprime la cantidad que le falta para completar el monto de lo que quiere comprar.
 
 # Ejemplo
 
