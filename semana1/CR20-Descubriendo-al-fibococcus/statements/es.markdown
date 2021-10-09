@@ -1,6 +1,6 @@
 # Descripción
 
-Recientemente un grupo de científicos ha descubierto una nueva bacteria, la han llamado “Fibococcus aureus”. Javier, quien lidera la investigación ha observado que la bacteria tiene un crecimiento muy peculiar:
+Recientemente un grupo de científicos ha descubierto una nueva bacteria, la han llamado “Fibococcus aureus”. Javier, quien lidera la investigación, ha observado que la bacteria tiene un crecimiento muy peculiar:
 
 - A partir de los dos minutos de su nacimiento, la bacteria SIEMPRE genera un nuevo hijo por cada minuto que pasa.
 - Antes de los dos minutos, no genera ningún hijo.

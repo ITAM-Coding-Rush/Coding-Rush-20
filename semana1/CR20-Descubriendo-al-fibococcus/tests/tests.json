@@ -3,6 +3,10 @@
     {
       "filename": "../solutions/solution.py",
       "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/PA90.py",
+      "score_range": [0.9, 0.9]
     }
   ],
   "inputs": {

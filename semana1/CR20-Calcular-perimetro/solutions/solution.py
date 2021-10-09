@@ -20,4 +20,4 @@ perimetro = l1 + l2 + l3
 perimetro = round(perimetro, 3)
 
 #Imprimr resultado
-print( str(perimetro) )
+print(perimetro)

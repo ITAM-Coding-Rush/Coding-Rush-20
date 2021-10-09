@@ -7,6 +7,6 @@ efectivo =
 total =
 
 if :
-    print("Sí le alcanza")
+    print("Le alcanza")
 else:
-    print(str())
+    print()
