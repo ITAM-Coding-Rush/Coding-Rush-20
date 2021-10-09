@@ -2,7 +2,7 @@
 
 Recientemente un grupo de científicos ha descubierto una nueva bacteria, la han llamado “Fibococcus aureus”. Javier, quien lidera la investigación ha observado que la bacteria tiene un crecimiento muy peculiar:
 
-- A partir de los dos minutos desde su nacimiento, la bacteria SIEMPRE se genera un nuevo hijo por cada minuto que pasa.
+- A partir de los dos minutos de su nacimiento, la bacteria SIEMPRE genera un nuevo hijo por cada minuto que pasa.
 - Antes de los dos minutos, no genera ningún hijo.
 - Al parecer, la vida de la bacteria es muy prolongada, por lo que no hay que preocuparse de su muerte.
 
