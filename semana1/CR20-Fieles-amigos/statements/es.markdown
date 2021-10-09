@@ -1,10 +1,10 @@
 # Descripción
 
-Se dice que dos números enteros positivos $A$ y $B$ son amigos si la suma de los divisores propios de $A$ es igual a $B$ y la suma de los divisores propios de $B$ es igual a $A$.
+Se dice que dos números enteros positivos $A$ y $B$ son fieles amigos si la suma de los divisores propios de $A$ es igual a $B$ y la suma de los divisores propios de $B$ es igual a $A$.
 
 Los divisores propios de un número $n$ son todos aquellos enteros positivos que dividen a $n$, pero sin incluir a $n$. Por ejemplo, los divisores propios de 12 son 1, 2, 3, 4 y 6.
 
-Tu tarea es diseñar un código que diga si dos números son amigos o no.
+Tu tarea es diseñar un código que diga si dos números son fieles amigos o no.
 
 # Entrada
 
@@ -14,7 +14,7 @@ En la segunda línea, el entero $B$.
 
 # Salida
 
-Deberás imprimir "Son amigos" (sin comillas) si los enteros $A$ y $B$ son amigos, o "No son amigos" en otro caso.
+Deberás imprimir "Son amigos" (sin comillas) si los enteros $A$ y $B$ son fieles amigos, o "No son amigos" en caso contrario.
 
 # Ejemplo
 
@@ -25,7 +25,7 @@ Los divisores propios de 220 son: 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 y 110. La s
 
 Los divisores propios de 284 son: 1, 2, 4, 71 y 142. La suma de estos es 220.
 
-Por lo tanto, 220 y 284 son amigos.
+Por lo tanto, 220 y 284 son fieles amigos.
 ||examplefile
 sample2
 ||end

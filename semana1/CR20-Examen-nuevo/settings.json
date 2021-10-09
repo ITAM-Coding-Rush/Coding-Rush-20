@@ -1,6 +1,6 @@
 {
-  "title": "Los números amigos",
-  "source": "Coding Rush Otoño 2021 (Sebastián Serra + Juan Carlos Sigler Priego)",
+  "title": "Examen nuevo",
+  "source": "Coding Rush Otoño 2021 (Emilio Cantú + Juan Carlos Sigler Priego)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Examen-nuevo",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

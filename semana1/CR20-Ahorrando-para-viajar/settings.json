@@ -1,5 +1,5 @@
 {
-  "title": "Viaje a EUA",
+  "title": "Ahorrando para viajar",
   "source": "Coding Rush Otoño 2021 (Jesús Valdés + Juan Carlos Sigler Priego)",
 
   "limits": {
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Ahorrando-para-viajar",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

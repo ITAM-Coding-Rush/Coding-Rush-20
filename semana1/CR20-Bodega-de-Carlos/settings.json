@@ -1,6 +1,6 @@
 {
-  "title": "Examen nuevo",
-  "source": "Coding Rush Otoño 2021 (Emilio Cantú + Juan Carlos Sigler Priego)",
+  "title": "Bodega de Carlos",
+  "source": "Coding Rush Otoño 2021 (Yosshua Eli Cisneros Villasana)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Bodega-de-Carlos",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
