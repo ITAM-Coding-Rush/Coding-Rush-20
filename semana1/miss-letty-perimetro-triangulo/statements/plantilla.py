@@ -1,5 +1,3 @@
-#PLANTILLA
-
 #Leer pares ordenados, recuerda que son números reales
 x1 = #???
 y1 = #???
@@ -17,7 +15,7 @@ l3 =  #???
 perimetro = #???
 
 #Redondear resultado a 3 decimales
-perimetro = #???
+perimetro = round(perimetro, 3)
 
 #Imprimr resultado
 print( #??? )
