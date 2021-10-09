@@ -1,6 +1,6 @@
 # Descripción
 
-Carlos acaba de regresar a la Ciudad de México para ir a clases en el ITAM. Cuando llegó a su nuevo departamento se dio cuenta que no tenía nada de despensa en su refrigerador. Él va a comprar sus dos insumos básicos: la maruchan y el refresco. Dado que quiere llenar su refri, te pide ayuda con las cuentas del super.
+Carlos acaba de regresar a la Ciudad de México para ir a clases en el ITAM. Cuando llegó a su nuevo departamento se dio cuenta que no tenía nada de despensa en su refrigerador. Él va a comprar sus dos insumos básicos: la maruchan y el refresco. Dado que quiere llenar su refri, te pide ayuda con las cuentas del súper.
 
 Carlos te va a dar la información de cuántas maruchan y botellas de refrescó metió a su carrito y el precio unitario de cada uno. De igual manera, te va a dar su presupuesto. Con estos datos, ayúdalo a hacer cuentas y decirle si le alcanza con el efectivo que trae.
 
