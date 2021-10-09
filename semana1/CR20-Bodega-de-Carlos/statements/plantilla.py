@@ -9,4 +9,4 @@ total =
 if :
     print("Le alcanza")
 else:
-    print(str())
+    print()
