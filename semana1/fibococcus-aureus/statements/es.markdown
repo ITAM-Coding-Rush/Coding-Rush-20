@@ -1,6 +1,6 @@
 # Descripción
 
-Recientemente un grupo de científicos ha descubierto una nueva bacteria, la han llamado “Fibococcus aureus”. Javier, quien lidera la investigación ha observado que la bacteria tiene un crecimiento muy peculiar: 
+Recientemente un grupo de científicos ha descubierto una nueva bacteria, la han llamado “Fibococcus aureus”. Javier, quien lidera la investigación ha observado que la bacteria tiene un crecimiento muy peculiar:
 
 - A partir de los dos minutos desde su naciemento, la bacteria SIEMPRE se genera un nuevo hijo por cada minuto que pasa.
 - Antes de los dos minutos, no genera ningún hijo.
@@ -10,11 +10,11 @@ Javier sabe que tú eres un programador muy habilidoso y te ha pedido que le ayu
 
 # Entrada
 
-Un número entero $n$ que representa la cantidad de minutos que han pasado desde el nacimiento de la primer bacteria hasta la última. 
+Un número entero $n$ que representa la cantidad de minutos que han pasado desde el nacimiento de la primer bacteria hasta la última.
 
 # Salida
 
-La cantidad de bacterias que habrá después de los n minutos. 
+La cantidad de bacterias que habrá después de los n minutos.
 
 # Ejemplo
 
