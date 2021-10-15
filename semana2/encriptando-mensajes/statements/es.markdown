@@ -1,6 +1,6 @@
 # Encriptando mensajes
 
-Tus amigos Limón y Lorena están llevando juntos la clase de Bases de Datos con el famosísimo profesor Floppy. Como sun muy aplicados, hicieron la promesa de no distraerse durante la clase, por lo que sus únicas herramientas que usarán en clase son _Oracle SQL Developer_ y _zoom_. Durante la clase solo se podrán comunicar vía _zoom_, pero no quieren que Floppy se entere de qué están hablando. Así que investigando un poco descrubrieron la encriptación César.
+Tus amigos Limón y Lorena están llevando juntos la clase de Bases de Datos con el famosísimo profesor Floppy. Como sun muy aplicados, hicieron la promesa de no distraerse durante la clase, por lo que las únicas herramientas que usarán en clase son _Oracle SQL Developer_ y _zoom_. Durante la clase solo se podrán comunicar vía _zoom_, pero no quieren que Floppy se entere de qué están hablando. Así que investigando un poco descrubrieron la encriptación César.
 
 La encriptación César consiste en que las letras de la frase original serán cambiadas por las letras recorridas una __X__ cantidad de posiciones. Por ejemplo, la frase "hola mundo", en encriptación César, con x = 3 pasaría a ser "krod pxqgr".
 
