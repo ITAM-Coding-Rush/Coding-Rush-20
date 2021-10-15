@@ -1,10 +1,6 @@
-# NUMEROLOGÍA
-
 # Descripción
 
-Diego está harto de que Xime quiera predecir su futuro a través de la numerología.
-En ocasiones, Xime le explica a Diego que su enojo es debido a Mercurio Retrograda y Diego ya no lo soporta.
-Es por eso que, como buen escéptico e ingeniero, Diego ha decidido comprobar si la numerología tienes sentido a través de un experimento estadísitco.
+Diego está harto de que Xime quiera predecir su futuro a través de la numerología. En ocasiones, Xime le explica a Diego que su enojo es debido a Mercurio Retrógrada y Diego ya no lo soporta. Es por eso que, como buen escéptico e ingeniero, Diego ha decidido comprobar si la numerología tienes sentido a través de un experimento estadísitco.
 
 Para llevar a cabo su experimento, Diego le va a preguntar a Xime qué significado tienen los números pares e impares en la Numerología, va a calcular la Carta Numerológica de cada participante y va a imprimir una lista del significado de la Carta Numerológica de cada uno para, posteriormente, confirmar con cada participante si tiene sentido.
 
@@ -33,23 +29,19 @@ estará escrita en una misma línea y sin espacios. ($Ej. 15061998$)
 
 # Salida
 
-La lista con las $N sumas y respuestas$ para cada participante: $"ESTÁTICA"$ si la suma fue par ó $"DINÁMICA"$ si la suma fue impar.
-(Las respuestas deben estar en mayúsculas y con acento. No olvides que la ortografía es importante.)
+La lista con las $N$ sumas y respuestas para cada participante: "ESTÁTICA" si la suma fue par ó "DINÁMICA" si la suma fue impar.
+(Las respuestas deben estar en mayúsculas y con acento. No olvides que la ortografía es importante)
 
-En una línea se debe imprimir la suma y, en la siguiente línea, se debe imprimir la respuesta.
+En una línea se debe imprimir primero la suma y en la siguiente línea se debe imprimir la respuesta.
 
 # Ejemplo
 
-| Entrada  | Salida   | Descripción |
-| -------- | -------- | ----------- |
-| 3        | 3        |             |
-| 14061990 | DINÁMICA |             |
-| 01112001 | 6        |             |
-| 24121995 | ESTÁTICA |             |
-|          | 6        |             |
-|          | ESTÁTICA |             |
+||examplefile
+sample1
+||end
 
-<details>
-<summary>Revisa la `plantilla.py`</summary>
+<details><summary>Checa la `plantilla.py`</summary>
+
 {{plantilla.py}}
+
 </details>

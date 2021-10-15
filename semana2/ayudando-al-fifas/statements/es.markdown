@@ -3,12 +3,11 @@
 Pancho está obsesionado con Cristiano Ronaldo, al grado de que ya lo ve hasta en la sopa... Literalmente.
 Antes de la sesión de hoy, se fue a desayunar una rica sopa de letras, y él asegura que en ella vio "CR7".
 Pancho está emocionado y mientras canta "futbol, futbol, futbol, siempre futbol!!" te pide ayuda para encontrar las letras "CR7" en su sopita o
-determinar si necesita buscar ayuda profesional. 
+determinar si necesita buscar ayuda profesional.
 
 # Entrada
 
 Una cadena de caracteres que representa la sopita de letras de Pancho (el String dado solo contiene letras mayusculas y números)
-
 
 # Salida
 
