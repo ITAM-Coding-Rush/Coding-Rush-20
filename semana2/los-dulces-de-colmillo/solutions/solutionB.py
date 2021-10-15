@@ -1,9 +1,9 @@
 dulces = {
-    "Caramelos": 0,
-    "Chocolates": 0,
-    "Bombones": 0,
-    "Paletas": 0,
-    "Golosinas": 0
+    "Caramelo": 0,
+    "Chocolate": 0,
+    "Bombon": 0,
+    "Paleta": 0,
+    "Golosina": 0
 }
 
 n = int(input())
