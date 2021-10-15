@@ -12,8 +12,8 @@ Tu trabajo es decirle a nuestra querida mascota si tiene dulces de alguna clasif
 
 # Entrada
 
-Un número entero n que representa la cantidad de dulces totales seguido de n palabras que indican la categoría del dulce. 
-Después un número m que representa la cantidad de preguntas que Colmillo te hará seguido de m palabras que indican la categoría de dulce que Colmillo quiere saber si hay y cuántos dulces tiene.
+Un número entero $n$ que representa la cantidad de dulces totales que tiene Colmillo, seguido de $n$ palabras que indican la categoría del dulce. 
+Después un número $m$ que representa la cantidad de preguntas que Colmillo te hará, seguido de $m$ palabras que indican la categoría de dulce que Colmillo quiere saber si hay y cuántos dulces de dicha categoría tiene.
 
 # Salida
 
