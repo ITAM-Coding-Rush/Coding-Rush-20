@@ -14,7 +14,7 @@ resp = "WUU"
 for i in range(1, n+1):
     esta = False
     for j in range(m):
-        if piezas[j] == 1:
+        if piezas[j] == i:
             esta = True
     #si no esta, cambiamos la respuesta
     if esta == False:
