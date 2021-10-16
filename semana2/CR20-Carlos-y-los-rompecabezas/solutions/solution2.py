@@ -5,7 +5,7 @@ n = int(input())
 m = int(input())
 
 #guardamos las piezas en un arreglo
-piezas = [0]*(n+1)
+piezas = [0]*(m+1)
 for i in range(m):
     piezas[i] = int(input())
 

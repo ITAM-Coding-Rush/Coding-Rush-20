@@ -10,7 +10,8 @@ cubeta = [0]*(n+1)
 #checamos el numero de las piezas que tenemos y marcamos que sí la tenemos
 for i in range(m):
     pieza = int(input())
-    cubeta[pieza] = 1
+    if pieza <= n:
+        cubeta[pieza] = 1
 
 #hacemos un recorrido para ver si tenemos todas las piezas
 piezasDiferentes = 0
