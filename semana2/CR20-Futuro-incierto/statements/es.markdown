@@ -24,7 +24,7 @@ te ha pedido que lo ayudes a desarrollar un programa que lo haga de manera autom
 
 Primero, leerás un número $N$ que representa la cantidad de participantes en el experimento.
 
-Después, leerás la lista de $N$ fechas de nacimiento$. Cada fecha de nacimiento de seis dígitos estará escrita en una misma línea y sin espacios. ($Ej. 15061998$)
+Después, leerás la lista de $N$ fechas de nacimiento. Cada fecha de nacimiento de seis dígitos estará escrita en una misma línea y sin espacios. (Ej. 15061998)
 
 # Salida
 
