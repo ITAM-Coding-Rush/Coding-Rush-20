@@ -36,7 +36,7 @@ En una línea se debe imprimir primero la suma y en la siguiente línea se debe 
 # Ejemplo
 
 ||examplefile
-sample1
+sample
 ||end
 
 <details><summary>Checa la `plantilla.py`</summary>
