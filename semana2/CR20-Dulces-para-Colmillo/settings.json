@@ -1,6 +1,6 @@
 {
-  "title": "Carlos y los rompecabezas",
-  "source": "Coding Rush Otoño 2021 (Carlos Alberto Delgado Elizondo)",
+  "title": "Dulces para Colmillo",
+  "source": "Coding Rush Otoño 2021 (Javier David Hernández Estrada)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "CR21-Rompecabezas",
+    "alias": "CR20-Dulces-para-Colmillo",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

@@ -7,14 +7,14 @@
     {
       "filename": "../solutions/solution2.py",
       "verdict": "AC"
-    },    
+    },
     {
       "filename": "../solutions/chale.py",
-      "score_range": [0, 0]
+      "score_range": [0, 0.13]
     },
     {
       "filename": "../solutions/wuu.py",
-      "score_range": [0, 0]
+      "score_range": [0, 0.13]
     }
   ],
   "inputs": {

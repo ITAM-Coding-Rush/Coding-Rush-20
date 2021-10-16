@@ -1,6 +1,6 @@
 {
-  "title": "Ayudando al fifas",
-  "source": "Coding Rush Otoño 2021 (Fernanda Martínez + Yosshua Cisneros)",
+  "title": "Futuro incierto",
+  "source": "Coding Rush Otoño 2021 (Diego Hernández)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Futuro-incierto",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
