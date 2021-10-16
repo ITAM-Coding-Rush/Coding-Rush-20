@@ -1,6 +1,6 @@
 {
-  "title": "Numerología",
-  "source": "Coding Rush Otoño 2021 (Diego Hernández)",
+  "title": "Ayudando al fifas",
+  "source": "Coding Rush Otoño 2021 (Fernanda Martínez + Yosshua Cisneros)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Ayudando-al-fifas",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

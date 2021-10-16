@@ -1,6 +1,6 @@
 {
-  "title": "Los dulces de Colmillo",
-  "source": "Coding Rush Otoño 2021 (Javier David Hernández Estrada)",
+  "title": "Encriptando Mensajes",
+  "source": "Coding Rush Otoño 2021 (Bruno Vite y Pau Garza)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Encriptando-mensajes",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
