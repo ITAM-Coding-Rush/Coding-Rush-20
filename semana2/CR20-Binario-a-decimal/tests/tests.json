@@ -7,6 +7,10 @@
     {
       "filename": "../solutions/solutionB.py",
       "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/solutionC.py",
+      "verdict": "AC"
     }
   ],
   "inputs": {

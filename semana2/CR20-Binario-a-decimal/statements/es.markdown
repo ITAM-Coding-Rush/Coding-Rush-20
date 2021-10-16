@@ -38,3 +38,9 @@ sample1
 ||examplefile
 sample2
 ||end
+
+<details><summary>Checa la `plantilla.py`</summary>
+
+{{plantilla.py}}
+
+</details>
