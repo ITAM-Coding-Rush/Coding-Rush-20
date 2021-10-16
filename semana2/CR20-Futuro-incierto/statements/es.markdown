@@ -39,8 +39,3 @@ En una línea se debe imprimir primero la suma y en la siguiente línea se debe 
 sample
 ||end
 
-<details><summary>Checa la `plantilla.py`</summary>
-
-{{plantilla.py}}
-
-</details>
