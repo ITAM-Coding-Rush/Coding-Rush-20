@@ -1,49 +1,37 @@
-# **Deporte favorito**
+# Descripción
 
-El equipo de Coding Rush se encontraban platicando sobre las Olimpiadas afuera de las salas de cómputo. Cada voluntario comienza a hablar de su equipo favorito. El equipo quiere saber cuál es el deporte más popular entre los voluntarios del Coding Rush. Tú les propones crear un programa que cuente los votos y muestre cuál es el deporte más popular.
+El equipo de Coding Rush se encontraban platicando sobre las Olimpiadas afuera de las salas de cómputo. Cada voluntario comienza a hablar de su equipo favorito. El equipo quiere saber cuál es el deporte más popular entre los voluntarios del Coding Rush.
 
-# **Explicación**
-Deberás utilizar un diccionario que contenga los siguientes deportes:
-* futbol
-* basquetball
-* volleybol
-* atletismo
-* handball
-* otros
+Los deportes a considerar fueron:
 
-# **Entrada**
-* Un número $n$ que indica la cantidad de votos a introducir.
-* $n$ líneas con los votos de todos los deportes.
-  * Para cada voto debes escribir la inicial del deporte (consulta los ejemplos). Si la letra no coincide con ningún deporte, el voto va para *otros*.
+- futbol
+- baloncesto
+- voleibol
+- atletismo
+- handball
+- otros
 
-# **Salida**
-* El nombre del deporte con más votos.
-* El número de votos de ese deporte.
+Tu tarea es crear un programa que cuente los votos y muestre cuál es el deporte más popular.
 
-# **Ejemplo**
-||input
-6
-f
-f
-f
-f
-h
-h
-||output
-futbol
-4
-||input
-7
-k
-a
-r
-h
-a
-p
-h
-||output
-otros
-3
+# Entrada
+
+- Un número $n$ que indica la cantidad de votos a introducir.
+- $n$ líneas con los votos de todos los deportes.
+  - Para cada voto vendrá únicamente la inicial del deporte (consulta los ejemplos).
+  - Si la letra no coincide con ningún deporte, el voto va para _otros_.
+
+# Salida
+
+- El nombre del deporte con más votos (tal como viene en la lista de la descripción).
+- El número de votos de ese deporte.
+
+# Ejemplo
+
+||examplefile
+sample
+||examplefile
+sample2
+||end
 
 <details><summary>Checa la `plantilla.py`</summary>
 

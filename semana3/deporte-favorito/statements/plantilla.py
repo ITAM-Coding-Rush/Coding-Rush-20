@@ -2,7 +2,7 @@
 n = 
 
 # Inicialización del diccionario que contiene los deportes:
-# futbol, basquetball, volleybol, atletismo, handball.
+# futbol, baloncesto, voleibol, atletismo, handball.
 deportes = {}
 
 for 

@@ -2,8 +2,9 @@
 n = int(input())
 
 # Inicialización del diccionario que contiene los deportes:
-# futbol, basquetball, volleybol, atletismo, handball.
-deportes = {'futbol': 0, 'basquetball': 0, 'volleybol': 0, 'atletismo': 0, 'handball': 0, 'otros': 0}
+# futbol, baloncesto, voleibol, atletismo, handball.
+deportes = {'futbol': 0, 'baloncesto': 0, 'voleibol': 0,
+            'atletismo': 0, 'handball': 0, 'otros': 0}
 
 for i in range(n):
   # Lectura de votos
@@ -13,9 +14,9 @@ for i in range(n):
   if votos == 'f':
     deportes['futbol'] += 1
   elif votos == 'b':
-    deportes['basquetball'] += 1
+    deportes['baloncesto'] += 1
   elif votos == 'v':
-    deportes['volleybol'] += 1
+    deportes['voleibol'] += 1
   elif votos == 'a':
     deportes['atletismo'] += 1
   elif votos == 'h':
