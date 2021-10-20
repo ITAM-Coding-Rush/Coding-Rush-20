@@ -1,0 +1,19 @@
+{
+  "solutions": [
+    {
+      "filename": "../solutions/solution.py",
+      "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/palindroma.py",
+      "score_range": [0, 0.13]
+    },
+    {
+      "filename": "../solutions/IntentaOtra.py",
+      "score_range": [0, 0.13]
+    }
+  ],
+  "inputs": {
+    "filename": "test-validator.py"
+  }
+}

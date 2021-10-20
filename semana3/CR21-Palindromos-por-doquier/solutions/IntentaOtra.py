@@ -1,0 +1,1 @@
+print("Intenta con otra")
