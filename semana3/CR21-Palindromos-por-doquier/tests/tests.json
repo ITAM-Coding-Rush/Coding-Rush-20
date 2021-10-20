@@ -6,11 +6,11 @@
     },
     {
       "filename": "../solutions/palindroma.py",
-      "score_range": [0, 0.13]
+      "score_range": [0, 0]
     },
     {
       "filename": "../solutions/IntentaOtra.py",
-      "score_range": [0, 0.13]
+      "score_range": [0, 0]
     }
   ],
   "inputs": {
