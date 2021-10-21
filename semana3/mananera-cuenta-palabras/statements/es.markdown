@@ -8,11 +8,11 @@ Para lograr dicho objetivo, la empresa te ha pedido que los ayudes a desarrollar
 
 Primero, leerás un número $N$ que representa la cantidad de discrusos a analizar.
 
-Después, leerás la lista de $N$ discrusos. *Cada discurso estará en una línea distinta, en minúsculas y sin puntuación*.
+Después, leerás la lista de $N$ discrusos. _Cada discurso estará en una línea distinta, en minúsculas y sin puntuación_.
 
 # Salida
 
-En la primera línea, la palabra más repetida 
+En la primera línea, la palabra más repetida
 
 En la segunda línea, la cantidad de veces que fue repetida esa palabra.
 
@@ -21,7 +21,6 @@ En la segunda línea, la cantidad de veces que fue repetida esa palabra.
 ||examplefile
 sample
 ||end
-
 
 <details>
 <summary>Checa la `plantilla.py`</summary>
