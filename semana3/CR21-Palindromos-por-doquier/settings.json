@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "CR21-Palindromos-por-doquier",
+    "alias": "dummy-cr",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
