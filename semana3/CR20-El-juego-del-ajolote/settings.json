@@ -1,6 +1,6 @@
 {
-  "title": "Factorial aplicado",
-  "source": "Coding Rush Otoño 2021 (Emilio Cantú + Yosshua Cisneros)",
+  "title": "El juego del ajolote",
+  "source": "Coding Rush Otoño 2021 (Juan Carlos Sigler Priego)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-El-juego-del-ajolote",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

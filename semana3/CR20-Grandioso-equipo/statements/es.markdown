@@ -8,7 +8,7 @@ Recibirás dos números enteros $N$, el número de estudiantes en el salón, y $
 
 # Salida
 
-Deberás imprimir el número de los posibles grupos que se pueden formar en un salón de N estudiantes, cada uno de R integrantes.
+Deberás imprimir el número de los posibles grupos que se pueden formar en un salón de $N$ estudiantes, cada uno de $R$ integrantes.
 
 # Ejemplo
 
