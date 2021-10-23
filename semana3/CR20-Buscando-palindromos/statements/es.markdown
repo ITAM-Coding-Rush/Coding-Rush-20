@@ -16,11 +16,11 @@ Una sola línea con una oración. Las palabras están divididas por espacios. La
 ||examplefile
 sample1
 ||description
-Después de quitar los espacios nos queda "anitalavalatina", que es un palíndromo. 
+Después de quitar los espacios nos queda "anitalavalatina", que es un palíndromo.
 ||examplefile
 sample2
 ||description
-Después de quitar los espacios nos queda "holamundo", que no es un palíndromo. 
+Después de quitar los espacios nos queda "holamundo", que no es un palíndromo.
 ||end
 
 <details><summary>Checa la `plantilla.py`</summary>

@@ -1,6 +1,6 @@
 # Descripción
 
-Mónica va en quinto de primaria y su maestra le dejó de tarea varias sumas de fracciones. Como a Mónica no le gustan las matemáticas te ha pedido que le ayudes con su tarea, ya que no quiere reprobar en matemáticas. 
+Mónica va en quinto de primaria y su maestra le dejó de tarea varias sumas de fracciones. Como a Mónica no le gustan las matemáticas te ha pedido que le ayudes con su tarea, ya que no quiere reprobar en matemáticas.
 
 Tu tarea es ayudarle a sumar dos fracciones de la forma $\frac{A}{B} + \frac{C}{D}$ al estilo de quinto de primaria. Es decir, $\frac{AD+BC}{BD}$ sin reducir el resultado de la fracción **a menos** que el resultado sea un número entero, en ese caso sí debemos calcular el número entero.
 
@@ -35,6 +35,3 @@ sample3
 {{plantilla.py}}
 
 </details>
-
-
-
