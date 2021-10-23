@@ -1,6 +1,6 @@
 {
-  "title": "La tarea de Mónica",
-  "source": "Coding Rush Otoño 2021 (Mónica González García + Juan Carlos Sigler Priego)",
+  "title": "Grandioso equipo",
+  "source": "Coding Rush Otoño 2021 (Emilio Cantú + Yosshua Cisneros)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Grandioso-equipo",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

@@ -1,6 +1,6 @@
 {
-  "title": "La Mañanera (Cuenta Palabras)",
-  "source": "Coding Rush Otoño 2021 (Diego Hernández)",
+  "title": "Buscando palíndromos",
+  "source": "Coding Rush Otoño 2021 (Carlos Alberto Delgado Elizondo)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR20-Buscando-palindromos",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
