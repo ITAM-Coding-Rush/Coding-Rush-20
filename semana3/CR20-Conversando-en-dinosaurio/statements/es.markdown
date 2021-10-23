@@ -28,6 +28,7 @@ En caso de que la palabra no este en el diccionario de traducciones debes imprim
 # Ejemplo
 
 ||examplefile
+sample
 ||description
 
 - 'raawr' tiene 2 'a's en el rugido, lo que significa 'amar'.
@@ -36,7 +37,8 @@ En caso de que la palabra no este en el diccionario de traducciones debes imprim
 
 ||end
 
-<details>
-<summary>Checa la `plantilla.py`</summary>
+<details><summary>Checa la `plantilla.py`</summary>
+
 {{plantilla.py}}
+
 </details>

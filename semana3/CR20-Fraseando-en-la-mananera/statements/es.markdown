@@ -22,7 +22,8 @@ En la segunda línea, la cantidad de veces que fue repetida esa palabra.
 sample
 ||end
 
-<details>
-<summary>Checa la `plantilla.py`</summary>
+<details><summary>Checa la `plantilla.py`</summary>
+
 {{plantilla.py}}
+
 </details>

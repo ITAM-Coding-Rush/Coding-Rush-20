@@ -9,7 +9,7 @@ Una sola línea con una oración. Las palabras están divididas por espacios. La
 # Salida
 
 “PALINDROMA!” sin comillas si la oración es palíndroma
-“Intenta en otra” sin comillas si la oración no es palíndroma
+“Intenta con otra” sin comillas si la oración no es palíndroma
 
 # Ejemplo
 
