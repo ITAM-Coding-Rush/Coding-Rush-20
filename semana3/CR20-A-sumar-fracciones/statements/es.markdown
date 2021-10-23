@@ -24,8 +24,12 @@ Nota: Si el resultado es un número entero, solo debes imprimir un número.
 
 ||examplefile
 sample
+||description
+$\frac{1}{2} + \frac{2}{3} = \frac{7}{6}$
 ||examplefile
 sample2
+||description
+Aquí la respuesta sería $\frac{8}{4}$, que es el número entero 2, por lo que se imprime solo el entero.
 ||examplefile
 sample3
 ||end

@@ -5,8 +5,8 @@ C =
 D = 
 
 # Calculamos el numerador y denominador
-numerador = A*D+B*C
-denominador = B*D
+numerador = 
+denominador = 
 
 # ¿Cómo checamos si el resultado es un número entero
 if :
